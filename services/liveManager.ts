@@ -22,7 +22,7 @@ export class LiveManager {
 
   constructor(config: LiveManagerConfig) {
     this.config = config;
-    this.ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    this.ai = new GoogleGenAI({ apiKey: "AIzaSyAfAVTtOZgHb5aGVcDyctaJrFtlSE1cPnI" });
   }
 
   public async connect() {

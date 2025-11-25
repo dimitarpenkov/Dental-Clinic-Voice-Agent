@@ -1,0 +1,7 @@
+{
+  "name": "Dental Clinic Voice Agent",
+  "description": "An AI voice agent for taking dental appointments in Bulgarian, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
